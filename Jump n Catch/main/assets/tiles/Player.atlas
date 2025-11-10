@@ -1,0 +1,14 @@
+images {
+  image: "/main/assets/sprites/player.png"
+  pivot_x: 0.511706
+  pivot_y: 0.542692
+}
+images {
+  image: "/main/assets/sprites/chao.png"
+}
+images {
+  image: "/main/assets/sprites/inimigo.png"
+  pivot_x: 0.461731
+  pivot_y: 0.484693
+}
+extrude_borders: 2

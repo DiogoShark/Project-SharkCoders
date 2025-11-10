@@ -1,0 +1,327 @@
+name: "main"
+instances {
+  id: "chao"
+  prototype: "/main/chao.go"
+  position {
+    x: 82.861755
+    y: 165.03883
+  }
+}
+instances {
+  id: "chao1"
+  prototype: "/main/chao.go"
+  position {
+    x: 115.861755
+    y: 165.03883
+  }
+}
+instances {
+  id: "chao2"
+  prototype: "/main/chao.go"
+  position {
+    x: 154.86176
+    y: 212.03883
+  }
+}
+instances {
+  id: "chao3"
+  prototype: "/main/chao.go"
+  position {
+    x: 199.86176
+    y: 173.03883
+  }
+}
+instances {
+  id: "chao4"
+  prototype: "/main/chao.go"
+  position {
+    x: 257.86176
+    y: 189.03883
+  }
+}
+instances {
+  id: "chao7"
+  prototype: "/main/chao.go"
+  position {
+    x: 318.86176
+    y: 219.03883
+  }
+}
+instances {
+  id: "chao10"
+  prototype: "/main/chao.go"
+  position {
+    x: 431.86176
+    y: 164.03883
+  }
+}
+instances {
+  id: "chao11"
+  prototype: "/main/chao.go"
+  position {
+    x: 487.86176
+    y: 188.03883
+  }
+}
+instances {
+  id: "chao12"
+  prototype: "/main/chao.go"
+  position {
+    x: 540.86176
+    y: 165.03883
+  }
+}
+instances {
+  id: "chao13"
+  prototype: "/main/chao.go"
+  position {
+    x: 573.86176
+    y: 165.03883
+  }
+}
+instances {
+  id: "chao14"
+  prototype: "/main/chao.go"
+  position {
+    x: 603.86176
+    y: 165.03883
+  }
+}
+instances {
+  id: "chao15"
+  prototype: "/main/chao.go"
+  position {
+    x: 636.86176
+    y: 165.03883
+  }
+}
+instances {
+  id: "Player"
+  prototype: "/main/Player.go"
+  position {
+    x: 63.56537
+    y: 176.82672
+  }
+}
+instances {
+  id: "chao5"
+  prototype: "/main/chao.go"
+  position {
+    x: 17.861752
+    y: 165.03883
+  }
+}
+instances {
+  id: "chao8"
+  prototype: "/main/chao.go"
+  position {
+    x: 50.86175
+    y: 165.03883
+  }
+}
+instances {
+  id: "chao9"
+  prototype: "/main/chao.go"
+  position {
+    x: 727.86176
+    y: 165.03883
+  }
+}
+instances {
+  id: "chao16"
+  prototype: "/main/chao.go"
+  position {
+    x: 760.86176
+    y: 165.03883
+  }
+}
+instances {
+  id: "chao17"
+  prototype: "/main/chao.go"
+  position {
+    x: 662.86176
+    y: 165.03883
+  }
+}
+instances {
+  id: "chao18"
+  prototype: "/main/chao.go"
+  position {
+    x: 695.86176
+    y: 165.03883
+  }
+}
+instances {
+  id: "chao19"
+  prototype: "/main/chao.go"
+  position {
+    x: 376.86176
+    y: 193.03883
+  }
+}
+instances {
+  id: "chao20"
+  prototype: "/main/chao.go"
+  position {
+    x: 343.86176
+    y: 76.03883
+  }
+}
+instances {
+  id: "chao21"
+  prototype: "/main/chao.go"
+  position {
+    x: 376.86176
+    y: 76.03883
+  }
+}
+instances {
+  id: "chao22"
+  prototype: "/main/chao.go"
+  position {
+    x: 278.86176
+    y: 76.03883
+  }
+}
+instances {
+  id: "chao23"
+  prototype: "/main/chao.go"
+  position {
+    x: 311.86176
+    y: 76.03883
+  }
+}
+instances {
+  id: "chao24"
+  prototype: "/main/chao.go"
+  position {
+    x: 472.86176
+    y: 76.03883
+  }
+}
+instances {
+  id: "chao25"
+  prototype: "/main/chao.go"
+  position {
+    x: 505.86176
+    y: 76.03883
+  }
+}
+instances {
+  id: "chao26"
+  prototype: "/main/chao.go"
+  position {
+    x: 407.86176
+    y: 76.03883
+  }
+}
+instances {
+  id: "chao27"
+  prototype: "/main/chao.go"
+  position {
+    x: 440.86176
+    y: 76.03883
+  }
+}
+instances {
+  id: "chao28"
+  prototype: "/main/chao.go"
+  position {
+    x: 211.86176
+    y: 76.03883
+  }
+}
+instances {
+  id: "chao29"
+  prototype: "/main/chao.go"
+  position {
+    x: 244.86176
+    y: 76.03883
+  }
+}
+instances {
+  id: "chao30"
+  prototype: "/main/chao.go"
+  position {
+    x: 146.86176
+    y: 76.03883
+  }
+}
+instances {
+  id: "chao31"
+  prototype: "/main/chao.go"
+  position {
+    x: 179.86176
+    y: 76.03883
+  }
+}
+instances {
+  id: "chao6"
+  prototype: "/main/chao.go"
+  position {
+    x: 114.86176
+    y: 132.03883
+  }
+}
+instances {
+  id: "chao32"
+  prototype: "/main/chao.go"
+  position {
+    x: 114.86176
+    y: 103.03883
+  }
+}
+instances {
+  id: "chao33"
+  prototype: "/main/chao.go"
+  position {
+    x: 114.86176
+    y: 77.03883
+  }
+}
+instances {
+  id: "chao34"
+  prototype: "/main/chao.go"
+  position {
+    x: 539.86176
+    y: 77.03883
+  }
+}
+instances {
+  id: "chao35"
+  prototype: "/main/chao.go"
+  position {
+    x: 539.86176
+    y: 109.03883
+  }
+}
+instances {
+  id: "chao36"
+  prototype: "/main/chao.go"
+  position {
+    x: 539.86176
+    y: 137.03883
+  }
+}
+instances {
+  id: "chao37"
+  prototype: "/main/chao.go"
+  position {
+    x: 539.86176
+    y: 162.03883
+  }
+}
+instances {
+  id: "Inimigo"
+  prototype: "/main/Inimigo.go"
+  position {
+    x: 307.0
+    y: 114.0
+  }
+  scale3 {
+    x: 3.351641
+    y: 2.65934
+    z: 1.282844
+  }
+}
+scale_along_z: 0
