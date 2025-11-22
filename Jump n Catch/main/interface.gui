@@ -1,0 +1,30 @@
+fonts {
+  name: "always_on_top"
+  font: "/builtins/fonts/debug/always_on_top.font"
+}
+fonts {
+  name: "default"
+  font: "/builtins/fonts/default.font"
+}
+nodes {
+  position {
+    x: -2.0
+    y: 550.0
+  }
+  scale {
+    x: 1.518342
+    y: 1.775919
+  }
+  size {
+    x: 200.0
+    y: 100.0
+  }
+  type: TYPE_TEXT
+  text: "Vidas: 3"
+  font: "default"
+  id: "life"
+  pivot: PIVOT_W
+  inherit_alpha: true
+}
+material: "/builtins/materials/gui.material"
+adjust_reference: ADJUST_REFERENCE_PARENT

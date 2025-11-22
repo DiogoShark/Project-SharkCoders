@@ -20,6 +20,7 @@ function update(self, dt)
 
 	if self.input.left then dir.x = dir.x - 1 end
 	if self.input.right then dir.x = dir.x + 1 end
+	
 
 	if dir.x ~= 0 then
 		dir = vmath.normalize(dir)
